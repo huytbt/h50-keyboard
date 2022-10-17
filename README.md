@@ -32,6 +32,7 @@ Specifications
 ![photo](https://i.imgur.com/1dB2mfM.jpeg)
 ![photo](https://i.imgur.com/UzKWi6l.jpeg)
 ![photo](https://i.imgur.com/crkDSlu.jpeg)
+![photo](https://i.imgur.com/CzvLgvo.jpeg)
 
 ## Guide
 
