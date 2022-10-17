@@ -2,7 +2,7 @@
 
 The H50 is a mini keyboard with a 50 percent layout. The keyboard consists of 53 keys.
 
-![huytbt/h50](https://i.imgur.com/1dB2mfM.jpeg)
+![huytbt/h50](https://i.imgur.com/1dB2mfMh.jpeg)
 
 ## Idea
 
@@ -17,22 +17,22 @@ Specifications
 
 ## Layout
 
-![layout](https://i.imgur.com/hXhWdQU.jpeg)
+![layout](https://i.imgur.com/hXhWdQUh.jpeg)
 
 ## Matrix
 
-![matrix](https://i.imgur.com/QUhxKTq.jpeg)
+![matrix](https://i.imgur.com/QUhxKTqh.jpeg)
 
 ## Keyboard Components
 
-![component](https://i.imgur.com/eJ72FfM.jpeg)
+![component](https://i.imgur.com/eJ72FfMh.jpeg)
 
 ## Photos
 
-![photo](https://i.imgur.com/1dB2mfM.jpeg)
-![photo](https://i.imgur.com/UzKWi6l.jpeg)
-![photo](https://i.imgur.com/crkDSlu.jpeg)
-![photo](https://i.imgur.com/CzvLgvo.jpeg)
+![photo](https://i.imgur.com/1dB2mfMh.jpeg)
+![photo](https://i.imgur.com/UzKWi6lh.jpeg)
+![photo](https://i.imgur.com/crkDSluh.jpeg)
+![photo](https://i.imgur.com/CzvLgvoh.jpeg)
 
 ## Guide
 
