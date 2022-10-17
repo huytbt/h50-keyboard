@@ -42,9 +42,15 @@ Specifications
 4. Solder the keyboard circuit manually according to the matrix
 5. Flash firmware using QMKToolbox (firmware folder)
 
-## Note
+## Contact
 
 Contact me for further instructions. Here is some contact information
 
 - Github: https://github.com/huytbt
 - Email: huytbt@gmail.com
+
+## TODO
+
+- [ ] Record a video of build instructions
+- [ ] Write more detailed documentation
+- [ ] PCB Design
