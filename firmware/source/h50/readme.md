@@ -1,6 +1,6 @@
-# huytbt/h50
+# H50
 
-![huytbt/h50](https://i.imgur.com/1dB2mfM.jpeg)
+![h50](https://i.imgur.com/1dB2mfM.jpeg)
 
 The H50 is a mini keyboard with a 50 percent layout. The keyboard consists of 53 keys.
 

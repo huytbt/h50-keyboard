@@ -25,8 +25,7 @@ SPDX-License-Identifier: GPL-2.0-or-later
 #define DIODE_DIRECTION COL2ROW
 
 /* define if matrix has ghost */
-#define MATRIX_HAS_GHOST
+// #define MATRIX_HAS_GHOST
 
 /* Set 0 if debouncing isn't needed */
 #define DEBOUNCE 5
-

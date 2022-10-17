@@ -8,6 +8,13 @@ The H50 is a mini keyboard with a 50 percent layout. The keyboard consists of 53
 
 50 percent mini keyboard layout with 53 keys
 
+Specifications
+
+- 50% layout with a blocker separating spacebars from the arrow cluster
+- Number of keys: 53 keys
+- Case: mica acrylic + resin
+- Gasket Mount
+
 ## Layout
 
 ![layout](https://i.imgur.com/hXhWdQU.jpeg)
