@@ -1,12 +1,12 @@
 # huytbt/h50
 
-![huytbt/h50](https://i.imgur.com/y3hBErX.jpeg)
+![huytbt/h50](https://i.imgur.com/1dB2mfM.jpeg)
 
 The H50 is a mini keyboard with a 50 percent layout. The keyboard consists of 53 keys.
 
 * Keyboard Maintainer: [huytbt](https://github.com/huytbt)
-* Hardware Supported: H50 PCB
-* Hardware Availability: https://www.antipode.no/products/akb-vero
+* Hardware Supported: Handwired
+* Hardware Availability: You can follow the build guide here <https://github.com/huytbt/h50-keyboard>
 
 Make example for this keyboard (after setting up your build environment):
 
